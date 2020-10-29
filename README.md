@@ -1,4 +1,6 @@
 # biangbiang
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkevinhu%2Fbiangbiang.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkevinhu%2Fbiangbiang?ref=badge_shield)
+
 
 This package provides methods for Chinese language analysis and exploration in Node.js. In particular, it provides three broad functions:
 
@@ -281,3 +283,7 @@ Biangbiang noodles are a common cuisine in China's Shaanxi province. The charact
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Bi%C3%A1ng_%28regular_script%29.svg/120px-Bi%C3%A1ng_%28regular_script%29.svg.png">
 </p>
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkevinhu%2Fbiangbiang.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkevinhu%2Fbiangbiang?ref=badge_large)
